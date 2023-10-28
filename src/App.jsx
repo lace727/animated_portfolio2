@@ -1,6 +1,6 @@
 import './App.scss';
 import { Navbar } from './components/navbar/Navbar';
-import { Test } from './Test';
+// import {Sidebar} from './components/sidebar/Sidebar';
 
 function App() {
   return (
@@ -16,7 +16,6 @@ function App() {
         <section>Portfolio2</section>
         <section>Portfolio3</section>
         <section>Contact</section>
-        {/* <Test /> */}
       </div>
     </>
   );
